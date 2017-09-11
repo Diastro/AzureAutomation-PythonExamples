@@ -1,5 +1,5 @@
 # AzureAutomation-PythonExamples
-Python2 example runbooks for Azure Automation
+Python example runbooks for Azure Automation
 
 To report an issue or request an example please open an [issue](https://github.com/Diastro/AzureAutomation-PythonExamples/issues)
 
