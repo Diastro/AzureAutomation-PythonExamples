@@ -1,7 +1,7 @@
 # AzureAutomation-PythonExamples
 Python example runbooks for Azure Automation
 
-To report an issue or request an example please open an [issue](https://github.com/Diastro/AzureAutomation-PythonExamples/issues)
+To report an issue or request an example please open an [issue](https://github.com/Diastro/AzureAutomation-PythonExamples/issues).
 
 ### Built-in Azure SDK
 The Azure Python2 SDK is build into Azure Automation. To use **any** of the Azure module simply import them from your runbooks like so :
